@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["FLOW ON TOP",".GG/FLOWBL"];
 
 
 let currentIndex = 0;
