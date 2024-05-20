@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["FLOW ON TOP",".GG/FLOWBL"];
+const statusMessages = ["FLOW ON TOP ⚽",".gg/Flowbl"];
 
 
 let currentIndex = 0;
